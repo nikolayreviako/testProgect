@@ -23,6 +23,7 @@
 
 	<body>
 		<div class = 'objA obj'></div>
+			<p>changing on server</p>
 		<div class = 'objB obj'></div>
 	</body>
 </html>	

@@ -1,0 +1,12 @@
+.obj{
+	width: 200px;
+	height: 200px;
+	cursor: pointer;	
+}
+.objA{
+	background-color: green;
+//	visibility: hidden;
+}
+.objB{
+	background-color: yellow;
+}

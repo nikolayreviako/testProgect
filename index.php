@@ -16,7 +16,7 @@
 				console.log(Number.isInteger(a));
 				
 			});		
-
+			
 			
 		</script>			
 	</head>	
@@ -24,6 +24,7 @@
 	<body>
 		<div class = 'objA obj'></div>
 			<p>changing on server</p>
+			<p>изменение на локальном</p>
 		<div class = 'objB obj'></div>
 	</body>
 </html>	
